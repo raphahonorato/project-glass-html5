@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="48cb04ff-8ac0-46f8-91f3-d1a9bf9fb35a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/_css/estilo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_css/teste-java-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/_css/teste-java-02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_css/teste-php.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_css/testeja-01.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +21,13 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,7 +41,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -53,22 +68,64 @@
       <workItem from="1585095475814" duration="962000" />
       <workItem from="1585258987701" duration="267000" />
       <workItem from="1585331838267" duration="8519000" />
-      <workItem from="1585417719908" duration="6643000" />
+      <workItem from="1585417719908" duration="6838000" />
+      <workItem from="1585492825901" duration="647000" />
+      <workItem from="1585539999674" duration="12498000" />
+      <workItem from="1585583849152" duration="2316000" />
+      <workItem from="1585670065506" duration="2725000" />
+      <workItem from="1586267540272" duration="5742000" />
     </task>
+    <task id="LOCAL-00001" summary="Formatação css">
+      <created>1585427076345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585427076345</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Formatação css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Formatação css" />
   </component>
   <component name="WindowStateProjectService">
     <state x="550" y="26" key="#Notifications" timestamp="1585426977534">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="550" y="26" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1585426977534" />
-    <state x="413" y="0" key="CommitChangelistDialog2" timestamp="1585427057948">
+    <state x="495" y="175" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585543260485">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585427057948" />
+    <state x="495" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585543260485" />
+    <state x="413" y="0" key="CommitChangelistDialog2" timestamp="1585427074875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585427074875" />
+    <state x="776" y="100" width="497" height="535" maximized="true" key="DiffContextDialog" timestamp="1585427173439">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="776" y="100" width="497" height="535" maximized="true" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1585427173439" />
+    <state x="804" y="119" key="FileChooserDialogImpl" timestamp="1585670439477">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="804" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585670439477" />
     <state x="368" y="10" key="SettingsEditor" timestamp="1585341320517">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -77,6 +134,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="833" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1585426959776" />
+    <state x="528" y="0" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1585670206491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="528" y="0" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1585670206491" />
     <state x="437" y="125" key="search.everywhere.popup" timestamp="1585095520242">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
