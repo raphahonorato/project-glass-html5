@@ -40,10 +40,16 @@
 
     <p>Clique em qualquer área destacada da imagem para ter mais informações sobre os recursos do Google Glass. Qualquer ponto vermelho vai te levar a um lugar cheio de novas informações.</p>
     <section id="conteudo">
-        <img src="_imagens/glass-esquema-marcado.jpg"/>
+        <img src="_imagens/glass-esquema-marcado.jpg" usemap="#meumapa"/>
+        <map name="meumapa">
+            <area shape="poly" coords="182,220,266,208,267,243,185,256" href="google-glass.html#tela" target="janela"/>
+            <area shape="circle" coords="158,243,12" href="google-glass.html#camera" target="janela"/>
+            <area shape="poly" coords="27,146,82,215,85,250,28,170" href="google-glass.html#sensores" target="janela"/>
+            <area shape="circle" coords="76,52,11" href="google-glass.html#gadgets" target="janela">
+        </map>
         <iframe src="google-glass.html" name="janela" id="frame-spec"></iframe>
     </section>
-</article>
+    </article>
 </section>
 <footer id="rodape">
     <p>Copyright &copy; 2020 - by Raphael Honorato <br/>
