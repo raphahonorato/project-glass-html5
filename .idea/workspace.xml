@@ -4,14 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48cb04ff-8ac0-46f8-91f3-d1a9bf9fb35a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/_css/estilo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_css/teste-java-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/_css/teste-java-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_css/teste-php.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_css/testeja-01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="48cb04ff-8ac0-46f8-91f3-d1a9bf9fb35a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +67,7 @@
       <workItem from="1585583849152" duration="2316000" />
       <workItem from="1585670065506" duration="2725000" />
       <workItem from="1586267540272" duration="5742000" />
+      <workItem from="1586438638300" duration="153000" />
     </task>
     <task id="LOCAL-00001" summary="Formatação css">
       <created>1585427076345</created>
